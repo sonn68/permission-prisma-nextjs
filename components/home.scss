@@ -1,0 +1,21 @@
+body {
+  overflow-x: hidden;
+}
+.home-component{
+  width: 100vw;
+  height: 100vh;
+  float: left;
+  background: #aaa;
+  .get-feed{
+    float: left;
+    margin-top: 25px;
+    width: 45vw;
+    background: #cdcdcd;
+  }
+  .create-draft{
+    float: right;
+    margin-top: 25px;
+    width: 45vw;
+    background: #cdcdcd;
+  }
+}
