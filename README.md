@@ -1,0 +1,1 @@
+# permission-prisma-nextjs
